@@ -1,16 +1,12 @@
 
-# bmi_animate
+# BMI Animation App
 
-A new Flutter project.
 
-## Getting Started
+This project is a Animation from BMI app for a Flutter application.
 
-This project is a starting point for a Flutter application.
+<img src = "https://user-images.githubusercontent.com/121785230/221341401-dbcf8d82-290f-4b5a-b9f5-5a15d816d5d4.png" height = "500px"/> |
+<img src = "https://user-images.githubusercontent.com/121785230/221341428-00da51d7-cd83-4038-9ca3-9462c1222145.png" height = "500px"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
